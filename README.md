@@ -1,5 +1,6 @@
 # Customer_AnalysisBig_data
-I- Big data project of cutomer analysis using Apache PIG
+I- FIRST PROJECT 
+Big data project of cutomer analysis using Apache PIG
 
 1)download web file of customer analysis using the link 
 2)Put both the csv files in Hadoop cluster
@@ -8,12 +9,13 @@ I- Big data project of cutomer analysis using Apache PIG
 
 command_1)find the top 5 best customer
 command_2)Which month saw the largest number of cancellations of the accessories due to poor quality of work?
-order 3) The top 10 countries that come to order from your e-bisuness website
+order 3) The top 10 countries that come to order from your e-business website
 
 analysis.jar is a mapreduce function that indicates which clients have visited your destination.
 
 
-II- Marketing Analysis
+II- SECOND PROJECT
+Marketing Analysis
 
 
 + Batch analytics 
